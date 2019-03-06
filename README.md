@@ -1,2 +1,2 @@
-# curso_iniciante_api_nodejs_aula07
-Curso Iniciante de API Nodejs + Express + Mongo - Aula 07
+# Nodejs API Básico - Aula 7 - Autenticação com JWT (Jsonwebtoken)
+Utilizando JWT para autenticar usuários na API.
